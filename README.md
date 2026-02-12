@@ -42,4 +42,4 @@ CreditCard: Does the customer use a credit card issued by any other Bank (exclud
 
 # Tools & Techniques:
 
-Python, Matplotlib, Seaborn, Machine Learning, Decision Tree, Statistics, Data Cleaning, EDA, Classification, Pre-pruning, Post-pruning.
+Python, Matplotlib, Seaborn, Sckit-Learn, Machine Learning, Decision Tree, Statistics, Data Cleaning, EDA, Classification, Pre-pruning, Post-pruning.
